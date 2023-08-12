@@ -1,7 +1,7 @@
 # belajar-github
-Rapository latihan git Dicoding
-*Text hanya contoh
-(`<br>`)
+Rapository latihan git Dicoding<br />
+*Text hanya contoh<hr />
+
 
 14 Juni 2021
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
