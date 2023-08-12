@@ -1,4 +1,5 @@
 # belajar-github
+Rapository latihan git Dicoding
 
 14 Juni 2021
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
@@ -7,4 +8,4 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
 
 * Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.
 
-*Contoh text
+*Text hanya contoh
